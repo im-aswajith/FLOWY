@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Telegram-Chat%20with%20Flowy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-critical?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Privacy-First-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" />
 </p>
@@ -117,7 +117,7 @@ This project's source is kept private — this README exists to showcase what Fl
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — see [LICENSE](./LICENSE) for details.
+All rights reserved. Source is closed; use only permitted via the official bot — see [LICENSE](./LICENSE) for details.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
